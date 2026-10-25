@@ -136,4 +136,4 @@ int main()
 Queue elements:         97      53      82      96      85      54
 Removed: 97
 Queue elements:         53      82      96      85      54
-Front element is: 53*/
+Front element is: 53*/  
