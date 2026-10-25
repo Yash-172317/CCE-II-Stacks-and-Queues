@@ -129,11 +129,3 @@ int main()
 
     return 0;
 }
-
-
-/*PS D:\yash jagtap s3> cd "d:\yash jagtap s3\" ; if ($?) { g++ Queue-using_linklist.cpp -o Queue-using_linklist } ; if ($?) { .\Queue-using_linklist }
-
-Queue elements:         97      53      82      96      85      54
-Removed: 97
-Queue elements:         53      82      96      85      54
-Front element is: 53*/
