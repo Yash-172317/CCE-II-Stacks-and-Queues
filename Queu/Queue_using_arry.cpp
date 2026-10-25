@@ -121,12 +121,3 @@ class queue
 
                 
     }
-
-
-
-/*PS D:\yash jagtap s3> cd "d:\yash jagtap s3\" ; if ($?) { g++ Queue_using_arry.cpp -o Queue_using_arry } ; if ($?) { .\Queue_using_arry }
-
-Queue elememts: 55      57      65      97      99
-Removed:55
-Queue elememts: 57      65      97      99
-Front element is:57*/
