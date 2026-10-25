@@ -82,3 +82,19 @@ int main() {
     return 0;
 }
 
+
+/*PS D:\yash jagtap s3> cd "d:\yash jagtap s3\" ; if ($?) { g++ stack_using_linklist.cpp -o stack_using_linklist } ; if ($?) { .\stack_using_linklist }
+
+130
+100
+578
+895
+795
+777
+Removed130
+100
+578
+895
+795
+777
+Top Element is:100*/
