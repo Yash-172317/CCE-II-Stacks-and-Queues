@@ -99,3 +99,18 @@ int main()
     return 0;
 }
 
+/*PS D:\yash jagtap s3> cd "d:\yash jagtap s3\" ; if ($?) { g++ stack_using_array.cpp -o stack_using_array } ; if ($?)
+ { .\stack_using_array }
+Stack elements:
+98
+57
+96
+24
+22
+Removed: 98
+Stack after pop:
+57
+96
+24
+22
+Top element is: 57*/
