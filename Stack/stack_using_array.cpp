@@ -98,6 +98,4 @@ int main()
 
     return 0;
 }
-  
-22
-Top element is: 57*/
+
